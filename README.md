@@ -1,2 +1,5 @@
-# FetulhakA
-Profile
+- 👋 Hi, I’m @Deponker Sarker Dipto
+- 👀 I’m interested in Artificial Intelligence, Deep learning, Machine Learning, Medical Imaging, Computer Vision
+- 🌱 I’m currently working as an independent researcher in the area of computer vision with focus on medical imaging
+- 💞️ I’m looking to collaborate on Deep learning, machine learning Projects
+- 📫 How to reach me: Email me afetulhak@yahoo.com
