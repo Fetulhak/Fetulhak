@@ -1,4 +1,4 @@
-- # Hi there, I'm [Fetulhak Shewajo] 👋
+- # Hi there, I'm Fetulhak Shewajo 👋
 
 Welcome to my GitHub profile! I'm a passionate  Artificial Intelligence, Deep learning, Machine Learning, Medical Imaging, Computer Vision, Data analytics and Blockchain researcher with a strong background in developing advanced systems for diverse applications. Below are some of my key technical skills and tools I frequently work with.
 
