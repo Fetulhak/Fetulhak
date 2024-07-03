@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I'm a passionate  Artificial Intelligence, Deep le
   - scikit-learn
   - OpenCV
   - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
 
 ### Blockchain & Security
 - **Technologies:**
@@ -38,11 +41,18 @@ Welcome to my GitHub profile! I'm a passionate  Artificial Intelligence, Deep le
   - Handling large-scale datasets (e.g., meteorological and hydrological data)
 - **Data Augmentation:**
   - Techniques for improving model performance and robustness
+- **Libraries:**
+  - Pandas
+  - SQLAlchemy
+  - MySQL
+  - MongoDB
 
 ### Web Development & Deployment
 - **Tools:**
   - Python HTTP Server
   - Command-line Interface (CLI) for running scripts
+  - Flask
+  - Django
 
 ### Medical Imaging & Diagnostics
 - **Applications:**
@@ -63,13 +73,15 @@ Welcome to my GitHub profile! I'm a passionate  Artificial Intelligence, Deep le
 ## Tools & Technologies
 
 - **Programming Languages:** Python, Java
-- **Machine Learning and Deep Learning Libraries:** Keras, TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy
+- **Machine Learning and Deep Learning Libraries:** Keras, TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
 - **Blockchain and Security Frameworks:** Hyperledger Fabric, Hyperledger Composer, PKI, CouchDB (for world state database)
-- **Web Development Tools:** Python HTTP Server
+- **Web Development Tools:** Python HTTP Server, Flask, Django
 - **Containerization:** Docker
 - **Development Environments:** Jupyter Notebook, Google Colab
+- **Database Systems:** MySQL, MongoDB, SQLAlchemy
 - **Data Formats:** YOLO format, COCO format
 - **Pre-trained Models and Architectures:** DenseNet121, DenseNet169, ResNet-50, VGG-19
+
 
 - - 📫 How to reach me: Email me afetulhak@yahoo.com
 
