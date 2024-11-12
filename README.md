@@ -136,7 +136,7 @@ Feel free to reach out for any inquiries related to **Full Stack Development**, 
 
 ### Follow Me:
 - [GitHub](https://github.com/Fetulhak)  
-- [LinkedIn](https://www.linkedin.com/in/fetulhak)
+- https://www.linkedin.com/in/fetulhak-shewajo-b467b728/
 
 ---
 
