@@ -145,6 +145,4 @@ When I'm not coding or diving into machine learning models, you can find me expl
 
 ---
 
-This is a **much more detailed and expanded** version of your profile that gives a comprehensive view of your technical expertise, professional experience, projects, and certifications. You can paste this into your README.md file, and it will render well on GitHub.
 
-Let me know if you'd like to tweak any section further or need additional changes!
