@@ -2,7 +2,7 @@
 ### Full Stack Java Developer | Machine Learning Enthusiast | AI & Data Science Advocate
 
 #### Contact Information:
-- **Email**: [afetulhak@gmail.com](mailto:afetulhak@gmail.com)  | [afetulhak@gmail.com](mailto:afetulhak@gmail.com)  
+- **Email**: [afetulhak@gmail.com](mailto:afetulhak@gmail.com)  | [afetulhak@yahoo.com](mailto:afetulhak@gmail.com)  
 - **Location**: Sterling, VA, USA   
 - **GitHub**: [https://github.com/Fetulhak](https://github.com/Fetulhak)  
 - **LinkedIn**: https://www.linkedin.com/in/fetulhak-shewajo-b467b728/
