@@ -3,8 +3,7 @@
 
 #### Contact Information:
 - **Email**: [afetulhak@gmail.com](mailto:afetulhak@gmail.com)  
-- **Location**: Sterling, VA, USA  
-- **Phone**: +1 202-361-0578  
+- **Location**: Sterling, VA, USA   
 - **GitHub**: [https://github.com/Fetulhak](https://github.com/Fetulhak)  
 - **LinkedIn**: [https://www.linkedin.com/in/fetulhak](https://www.linkedin.com/in/fetulhak)
 
