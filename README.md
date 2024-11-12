@@ -5,7 +5,7 @@
 - **Email**: [afetulhak@gmail.com](mailto:afetulhak@gmail.com)  
 - **Location**: Sterling, VA, USA   
 - **GitHub**: [https://github.com/Fetulhak](https://github.com/Fetulhak)  
-- **LinkedIn**: [https://www.linkedin.com/in/fetulhak](https://www.linkedin.com/in/fetulhak)
+- **LinkedIn**: https://www.linkedin.com/in/fetulhak-shewajo-b467b728/
 
 ---
 
