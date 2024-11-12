@@ -64,9 +64,8 @@ Over 3+ years of IT experience as a **Java Full Stack Developer** in the areas o
 
 ### Experience
 
-#### **M&T Bank - Buffalo, NY**  
-**Role**: Java Full Stack Developer (March 2023 - Present)  
-**Project**: Development of financial services for M&T Bank’s enterprise solutions  
+#### **Role**: Java Full Stack Developer (March 2023 - Present)  
+**Project**: Development of financial services for enterprise solutions  
 - Developed **microservices** with **Spring Boot**, deployed on **AWS EC2** using **Docker** containers.  
 - Implemented **Kafka** for real-time data integration, working with Kafka producers and consumers.  
 - Created **Single Page Applications (SPA)** with **Angular 8** and **React JS**, utilizing **Redux** for state management.  
@@ -78,9 +77,8 @@ Over 3+ years of IT experience as a **Java Full Stack Developer** in the areas o
 
 ---
 
-#### **Comcast - Philadelphia, PA**  
-**Role**: Java Developer (Sept 2021 - Feb 2023)  
-**Project**: Modernization of Comcast’s legacy client-based applications  
+#### **Role**: Java Developer (Sept 2021 - Feb 2023)  
+**Project**: Modernization of legacy client-based applications  
 - Led the effort to modernize the legacy frontend by migrating to **AngularJS** and utilizing **Spring Boot** for backend services.  
 - Integrated **SOAP** and **RESTful** web services, ensuring seamless data flow across distributed systems.  
 - Employed **Spring AOP** for exception handling and **Spring DAO** for database operations.  
